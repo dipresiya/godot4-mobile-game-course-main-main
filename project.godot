@@ -16,6 +16,7 @@ config/icon="res://assets/target5.png"
 
 [autoload]
 
+Events="*res://core/events.gd"
 Globals="*res://core/globals.gd"
 
 [display]
